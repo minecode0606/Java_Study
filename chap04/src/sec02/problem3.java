@@ -14,4 +14,8 @@ public class problem3 {
             }
         }
     }
+    public static double function() {
+        double a = 1.1;
+        return a;
+    }
 }
